@@ -39,4 +39,6 @@ else if(number == 7) {
     System.out.println("Day is : "+day);
     
     
-  
+    }
+  }
+
