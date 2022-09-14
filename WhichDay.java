@@ -16,6 +16,7 @@ public class WhichDay {
     }
 else if(number == 2) {
   day = "Tuesday" ;
+  }
   if(number == 1) {
     day="Monday";
     }
